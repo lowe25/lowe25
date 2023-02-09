@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Louie Aldrin Cabral And i'm a Junior Front End Engineer In Upward Next Inc.
+- 👋 Hi, my name is Louie Aldrin Cabral and I'm a Junior Front End Engineer at Upward Next Inc.
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning ReactJS 
 
